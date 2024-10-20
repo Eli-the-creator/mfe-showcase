@@ -2,7 +2,7 @@ import React from 'react';
 import MarketingApp from './components/MarketingApp';
 
 
-console.log('124')
+console.log('12')
 
 export default () => {
     return (
