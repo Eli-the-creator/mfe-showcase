@@ -1,7 +1,8 @@
 import React from 'react';
 import MarketingApp from './components/MarketingApp';
 
-console.log('1')
+
+console.log('124556')
 
 export default () => {
     return (
@@ -10,5 +11,5 @@ export default () => {
             <hr/>
             <MarketingApp/>
         </div>
-    );
+    )
 }
