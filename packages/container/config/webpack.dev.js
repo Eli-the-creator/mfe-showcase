@@ -21,9 +21,6 @@ const devConfig = {
             },
             shared: packetJson.dependencies ,
         }),
-        new HtmlWebpackPlugin({
-            template: './public/index.html'
-        })
     ]
 };
 
