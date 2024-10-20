@@ -1,1 +1,1 @@
-# Micro front-end just for show cases my skill
+# Micro front-end project just for show cases my skill
